@@ -1,0 +1,7 @@
+include ':qqtext2'
+include ':qqlayout'
+include ':template'
+include ':sxwu_lian_wang'
+include ':exm01'
+include ':app'
+rootProject.name = "My Application"
